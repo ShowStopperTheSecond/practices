@@ -1,0 +1,8 @@
+# ninja log v5
+1	18	1670050064121226930	07_Age_calculator_autogen/timestamp	108d2ae029f7bda5
+1	18	1670050064121226930	07_Age_calculator_autogen/mocs_compilation.cpp	108d2ae029f7bda5
+1	18	1670050064121226930	/home/javid/Qt_practice/Beginner/Section_06/build-07_Age_calculator-Desktop_Qt_6_4_1_GCC_64bit-Debug/07_Age_calculator_autogen/timestamp	108d2ae029f7bda5
+1	18	1670050064121226930	/home/javid/Qt_practice/Beginner/Section_06/build-07_Age_calculator-Desktop_Qt_6_4_1_GCC_64bit-Debug/07_Age_calculator_autogen/mocs_compilation.cpp	108d2ae029f7bda5
+18	32	1670050064137226920	CMakeFiles/07_Age_calculator.dir/07_Age_calculator_autogen/mocs_compilation.cpp.o	1101a7df79971025
+18	1487	1670050065591226043	CMakeFiles/07_Age_calculator.dir/main.cpp.o	4a640f1a9e2c7c
+1488	1625	1670050065729225960	07_Age_calculator	5e4b5611d1978a9f

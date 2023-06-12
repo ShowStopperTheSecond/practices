@@ -1,0 +1,4 @@
+module 01_ScrollView
+typeinfo app01_ScrollView.qmltypes
+prefer :/01_ScrollView/
+

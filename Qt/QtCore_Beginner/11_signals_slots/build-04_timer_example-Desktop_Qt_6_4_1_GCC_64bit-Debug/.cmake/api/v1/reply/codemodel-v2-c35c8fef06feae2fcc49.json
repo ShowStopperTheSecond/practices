@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e4d9412a620c02e54872.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04_timer_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04_timer_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_timer_example-Debug-db6247e5ef8aaa2af7b1.json",
+					"name" : "04_timer_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_timer_example_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_timer_example_autogen-Debug-75cc49cc4983e4d0b7bd.json",
+					"name" : "04_timer_example_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_timer_example_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_timer_example_autogen_timestamp_deps-Debug-c352ccd82ae6112bacc4.json",
+					"name" : "04_timer_example_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/Qt_practice/Beginner/11_signals_slots/build-04_timer_example-Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/Qt_practice/Beginner/11_signals_slots/04_timer_example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

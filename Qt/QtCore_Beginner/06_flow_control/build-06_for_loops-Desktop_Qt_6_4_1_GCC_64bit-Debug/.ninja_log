@@ -1,0 +1,20 @@
+# ninja log v5
+1	18	1669838802527526176	06_for_loops_autogen/timestamp	4da2082c3bbf84
+1	18	1669838802527526176	06_for_loops_autogen/mocs_compilation.cpp	4da2082c3bbf84
+1	18	1669838802527526176	/home/javid/Qt_practice/Beginner/Section_06/build-06_for_loops-Desktop_Qt_6_4_1_GCC_64bit-Debug/06_for_loops_autogen/timestamp	4da2082c3bbf84
+1	18	1669838802527526176	/home/javid/Qt_practice/Beginner/Section_06/build-06_for_loops-Desktop_Qt_6_4_1_GCC_64bit-Debug/06_for_loops_autogen/mocs_compilation.cpp	4da2082c3bbf84
+18	33	1669838802543526213	CMakeFiles/06_for_loops.dir/06_for_loops_autogen/mocs_compilation.cpp.o	fc59eddd38a306c6
+19	1420	1669838803929529477	CMakeFiles/06_for_loops.dir/main.cpp.o	505c08d0f83fe2a9
+1420	1539	1669838804047529756	06_for_loops	4220d5942d230b40
+2	11	1669838864963672577	06_for_loops_autogen/timestamp	4da2082c3bbf84
+2	11	1669838864963672577	06_for_loops_autogen/mocs_compilation.cpp	4da2082c3bbf84
+2	11	1669838864963672577	/home/javid/Qt_practice/Beginner/Section_06/build-06_for_loops-Desktop_Qt_6_4_1_GCC_64bit-Debug/06_for_loops_autogen/timestamp	4da2082c3bbf84
+2	11	1669838864963672577	/home/javid/Qt_practice/Beginner/Section_06/build-06_for_loops-Desktop_Qt_6_4_1_GCC_64bit-Debug/06_for_loops_autogen/mocs_compilation.cpp	4da2082c3bbf84
+11	1463	1669838866415675966	CMakeFiles/06_for_loops.dir/main.cpp.o	505c08d0f83fe2a9
+1463	1587	1669838866537676251	06_for_loops	4220d5942d230b40
+1	10	1669838907169770829	06_for_loops_autogen/timestamp	4da2082c3bbf84
+1	10	1669838907169770829	06_for_loops_autogen/mocs_compilation.cpp	4da2082c3bbf84
+1	10	1669838907169770829	/home/javid/Qt_practice/Beginner/Section_06/build-06_for_loops-Desktop_Qt_6_4_1_GCC_64bit-Debug/06_for_loops_autogen/timestamp	4da2082c3bbf84
+1	10	1669838907169770829	/home/javid/Qt_practice/Beginner/Section_06/build-06_for_loops-Desktop_Qt_6_4_1_GCC_64bit-Debug/06_for_loops_autogen/mocs_compilation.cpp	4da2082c3bbf84
+11	1460	1669838908619774196	CMakeFiles/06_for_loops.dir/main.cpp.o	505c08d0f83fe2a9
+1460	1586	1669838908743774483	06_for_loops	4220d5942d230b40

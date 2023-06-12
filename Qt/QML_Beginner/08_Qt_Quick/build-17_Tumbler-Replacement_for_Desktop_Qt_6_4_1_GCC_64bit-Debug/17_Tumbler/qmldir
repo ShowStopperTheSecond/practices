@@ -1,0 +1,4 @@
+module 17_Tumbler
+typeinfo app17_Tumbler.qmltypes
+prefer :/17_Tumbler/
+

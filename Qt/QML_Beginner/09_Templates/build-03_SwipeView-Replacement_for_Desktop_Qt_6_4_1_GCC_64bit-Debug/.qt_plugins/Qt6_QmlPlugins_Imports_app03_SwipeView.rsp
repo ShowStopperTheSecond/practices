@@ -1,0 +1,14 @@
+-rootPath
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/03_SwipeView
+-cmake-output
+-output-file
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_SwipeView-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app03_SwipeView.cmake
+-importPath
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_SwipeView-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/03_SwipeView
+-importPath
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_SwipeView-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug
+-importPath
+/home/javid/Qt/6.4.1/gcc_64/./qml
+-qrcFiles
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_SwipeView-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/.rcc/qmake_03_SwipeView.qrc
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_SwipeView-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/.rcc/app03_SwipeView_raw_qml_0.qrc

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6f7a8f994964d079d628.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04_overloading",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04_overloading::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_overloading-Debug-25b71d5c41c1e9851996.json",
+					"name" : "04_overloading",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_overloading_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_overloading_autogen-Debug-38ff7b56b5b838e18c24.json",
+					"name" : "04_overloading_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_overloading_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_overloading_autogen_timestamp_deps-Debug-becf78b870e86b6f1251.json",
+					"name" : "04_overloading_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/Qt_practice/Beginner/Section_07/build-04_overloading-Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/Qt_practice/Beginner/Section_07/04_overloading"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

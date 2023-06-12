@@ -1,0 +1,14 @@
+-rootPath
+/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/12_QML_And_JavaScript_Connections
+-cmake-output
+-output-file
+/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/build-12_QML_And_JavaScript_Connections-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app12_QML_And_JavaScript_Connections.cmake
+-importPath
+/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/build-12_QML_And_JavaScript_Connections-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/12_QML_And_JavaScript_Connections
+-importPath
+/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/build-12_QML_And_JavaScript_Connections-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug
+-importPath
+/home/javid/Qt/6.4.1/gcc_64/./qml
+-qrcFiles
+/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/build-12_QML_And_JavaScript_Connections-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/.rcc/qmake_12_QML_And_JavaScript_Connections.qrc
+/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/build-12_QML_And_JavaScript_Connections-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/.rcc/app12_QML_And_JavaScript_Connections_raw_qml_0.qrc

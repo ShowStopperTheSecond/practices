@@ -1,0 +1,4 @@
+module 03_SwipeView
+typeinfo app03_SwipeView.qmltypes
+prefer :/03_SwipeView/
+

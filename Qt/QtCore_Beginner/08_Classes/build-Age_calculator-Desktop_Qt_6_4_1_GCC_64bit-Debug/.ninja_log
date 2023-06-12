@@ -1,0 +1,15 @@
+# ninja log v5
+1	246	1670160584974912450	Age_calculator_autogen/timestamp	6cdea1c24dba4d2b
+1	246	1670160584974912450	Age_calculator_autogen/mocs_compilation.cpp	6cdea1c24dba4d2b
+1	246	1670160584974912450	/home/javid/Qt_practice/Beginner/Section_08/build-Age_calculator-Desktop_Qt_6_4_1_GCC_64bit-Debug/Age_calculator_autogen/timestamp	6cdea1c24dba4d2b
+1	246	1670160584974912450	/home/javid/Qt_practice/Beginner/Section_08/build-Age_calculator-Desktop_Qt_6_4_1_GCC_64bit-Debug/Age_calculator_autogen/mocs_compilation.cpp	6cdea1c24dba4d2b
+247	2112	1670160586842917467	CMakeFiles/Age_calculator.dir/agecalc.cpp.o	2aba6fabf545fe08
+246	2144	1670160586874917553	CMakeFiles/Age_calculator.dir/Age_calculator_autogen/mocs_compilation.cpp.o	9a42684356b0e40c
+247	2192	1670160586922917682	CMakeFiles/Age_calculator.dir/main.cpp.o	d848bf5827403b0c
+2192	2323	1670160587052918031	Age_calculator	c27d9ae9b11db871
+1	11	1670160613224988306	Age_calculator_autogen/timestamp	6cdea1c24dba4d2b
+1	11	1670160613224988306	Age_calculator_autogen/mocs_compilation.cpp	6cdea1c24dba4d2b
+1	11	1670160613224988306	/home/javid/Qt_practice/Beginner/Section_08/build-Age_calculator-Desktop_Qt_6_4_1_GCC_64bit-Debug/Age_calculator_autogen/timestamp	6cdea1c24dba4d2b
+1	11	1670160613224988306	/home/javid/Qt_practice/Beginner/Section_08/build-Age_calculator-Desktop_Qt_6_4_1_GCC_64bit-Debug/Age_calculator_autogen/mocs_compilation.cpp	6cdea1c24dba4d2b
+12	1445	1670160614656992150	CMakeFiles/Age_calculator.dir/main.cpp.o	d848bf5827403b0c
+1445	1586	1670160614796992527	Age_calculator	c27d9ae9b11db871

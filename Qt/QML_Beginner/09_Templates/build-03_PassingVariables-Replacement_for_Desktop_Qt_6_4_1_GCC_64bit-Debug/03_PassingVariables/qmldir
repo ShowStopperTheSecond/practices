@@ -1,0 +1,6 @@
+module 03_PassingVariables
+typeinfo app03_PassingVariables.qmltypes
+prefer :/03_PassingVariables/
+Page1 1.0 Page1.qml
+Page2 1.0 Page2.qml
+

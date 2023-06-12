@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/03_SwipeView/">
+    <file alias="main.qml">/home/javid/home/Qt_practice/QML_Beginner/09_Templates/03_SwipeView/main.qml</file>
+  </qresource>
+</RCC>
+

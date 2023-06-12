@@ -1,0 +1,20 @@
+# ninja log v5
+1	20	1669832661476910630	05_loop_autogen/timestamp	c3711be6681f25a0
+1	20	1669832661476910630	05_loop_autogen/mocs_compilation.cpp	c3711be6681f25a0
+1	20	1669832661476910630	/home/javid/Qt_practice/Beginner/Section_06/build-05_loop-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_loop_autogen/timestamp	c3711be6681f25a0
+1	20	1669832661476910630	/home/javid/Qt_practice/Beginner/Section_06/build-05_loop-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_loop_autogen/mocs_compilation.cpp	c3711be6681f25a0
+20	34	1669832661494910563	CMakeFiles/05_loop.dir/05_loop_autogen/mocs_compilation.cpp.o	148fec0e9c9112d8
+20	1548	1669832663006905038	CMakeFiles/05_loop.dir/main.cpp.o	bcf6ee4a5f26b1c4
+1549	1679	1669832663136904563	05_loop	e0ac2382cd4949e5
+2	11	1669833781915278982	05_loop_autogen/timestamp	c3711be6681f25a0
+2	11	1669833781915278982	05_loop_autogen/mocs_compilation.cpp	c3711be6681f25a0
+2	11	1669833781915278982	/home/javid/Qt_practice/Beginner/Section_06/build-05_loop-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_loop_autogen/timestamp	c3711be6681f25a0
+2	11	1669833781915278982	/home/javid/Qt_practice/Beginner/Section_06/build-05_loop-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_loop_autogen/mocs_compilation.cpp	c3711be6681f25a0
+11	1543	1669833783449288799	CMakeFiles/05_loop.dir/main.cpp.o	bcf6ee4a5f26b1c4
+1543	1674	1669833783577289618	05_loop	e0ac2382cd4949e5
+2	13	1669833794359358059	05_loop_autogen/timestamp	c3711be6681f25a0
+2	13	1669833794359358059	05_loop_autogen/mocs_compilation.cpp	c3711be6681f25a0
+2	13	1669833794359358059	/home/javid/Qt_practice/Beginner/Section_06/build-05_loop-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_loop_autogen/timestamp	c3711be6681f25a0
+2	13	1669833794359358059	/home/javid/Qt_practice/Beginner/Section_06/build-05_loop-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_loop_autogen/mocs_compilation.cpp	c3711be6681f25a0
+13	1493	1669833795839367379	CMakeFiles/05_loop.dir/main.cpp.o	bcf6ee4a5f26b1c4
+1493	1614	1669833795957368122	05_loop	e0ac2382cd4949e5

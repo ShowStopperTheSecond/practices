@@ -1,0 +1,20 @@
+# ninja log v5
+1	18	1670053242231595630	02_functions_params_autogen/timestamp	3e47a9f9e3dad68e
+1	18	1670053242231595630	02_functions_params_autogen/mocs_compilation.cpp	3e47a9f9e3dad68e
+1	18	1670053242231595630	/home/javid/Qt_practice/Beginner/Section_07/build-02_functions_params-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_functions_params_autogen/timestamp	3e47a9f9e3dad68e
+1	18	1670053242231595630	/home/javid/Qt_practice/Beginner/Section_07/build-02_functions_params-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_functions_params_autogen/mocs_compilation.cpp	3e47a9f9e3dad68e
+19	32	1670053242247595612	CMakeFiles/02_functions_params.dir/02_functions_params_autogen/mocs_compilation.cpp.o	f9ef1daa7a60c7df
+19	1451	1670053243665594056	CMakeFiles/02_functions_params.dir/main.cpp.o	13053035f0814b5b
+1453	1587	1670053243801593907	02_functions_params	bfa15b77aef645f9
+2	10	1670053306058666678	02_functions_params_autogen/timestamp	3e47a9f9e3dad68e
+2	10	1670053306058666678	02_functions_params_autogen/mocs_compilation.cpp	3e47a9f9e3dad68e
+2	10	1670053306058666678	/home/javid/Qt_practice/Beginner/Section_07/build-02_functions_params-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_functions_params_autogen/timestamp	3e47a9f9e3dad68e
+2	10	1670053306058666678	/home/javid/Qt_practice/Beginner/Section_07/build-02_functions_params-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_functions_params_autogen/mocs_compilation.cpp	3e47a9f9e3dad68e
+11	1517	1670053307564693533	CMakeFiles/02_functions_params.dir/main.cpp.o	13053035f0814b5b
+1517	1660	1670053307706696061	02_functions_params	bfa15b77aef645f9
+2	11	1670053334389158797	02_functions_params_autogen/timestamp	3e47a9f9e3dad68e
+2	11	1670053334389158797	02_functions_params_autogen/mocs_compilation.cpp	3e47a9f9e3dad68e
+2	11	1670053334389158797	/home/javid/Qt_practice/Beginner/Section_07/build-02_functions_params-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_functions_params_autogen/timestamp	3e47a9f9e3dad68e
+2	11	1670053334389158797	/home/javid/Qt_practice/Beginner/Section_07/build-02_functions_params-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_functions_params_autogen/mocs_compilation.cpp	3e47a9f9e3dad68e
+11	1372	1670053335749181737	CMakeFiles/02_functions_params.dir/main.cpp.o	13053035f0814b5b
+1372	1496	1670053335873183827	02_functions_params	bfa15b77aef645f9

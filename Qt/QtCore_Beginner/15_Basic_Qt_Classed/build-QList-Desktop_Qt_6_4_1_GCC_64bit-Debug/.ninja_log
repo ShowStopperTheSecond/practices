@@ -1,0 +1,20 @@
+# ninja log v5
+1	18	1670575718129483166	QList_autogen/timestamp	32277813af3c598a
+1	18	1670575718129483166	QList_autogen/mocs_compilation.cpp	32277813af3c598a
+1	18	1670575718129483166	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-QList-Desktop_Qt_6_4_1_GCC_64bit-Debug/QList_autogen/timestamp	32277813af3c598a
+1	18	1670575718129483166	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-QList-Desktop_Qt_6_4_1_GCC_64bit-Debug/QList_autogen/mocs_compilation.cpp	32277813af3c598a
+18	32	1670575718145483220	CMakeFiles/QList.dir/QList_autogen/mocs_compilation.cpp.o	a905b76292b7400
+19	1536	1670575719647488297	CMakeFiles/QList.dir/main.cpp.o	af9e66a5ca9060b
+1537	1675	1670575719785488764	QList	17c050c1a8c18808
+2	11	1670575743263568186	QList_autogen/timestamp	32277813af3c598a
+2	11	1670575743263568186	QList_autogen/mocs_compilation.cpp	32277813af3c598a
+2	11	1670575743263568186	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-QList-Desktop_Qt_6_4_1_GCC_64bit-Debug/QList_autogen/timestamp	32277813af3c598a
+2	11	1670575743263568186	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-QList-Desktop_Qt_6_4_1_GCC_64bit-Debug/QList_autogen/mocs_compilation.cpp	32277813af3c598a
+11	1512	1670575744763573264	CMakeFiles/QList.dir/main.cpp.o	af9e66a5ca9060b
+1512	1640	1670575744891573698	QList	17c050c1a8c18808
+2	11	1670575764067638658	QList_autogen/timestamp	32277813af3c598a
+2	11	1670575764067638658	QList_autogen/mocs_compilation.cpp	32277813af3c598a
+2	11	1670575764067638658	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-QList-Desktop_Qt_6_4_1_GCC_64bit-Debug/QList_autogen/timestamp	32277813af3c598a
+2	11	1670575764067638658	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-QList-Desktop_Qt_6_4_1_GCC_64bit-Debug/QList_autogen/mocs_compilation.cpp	32277813af3c598a
+12	1487	1670575765543643663	CMakeFiles/QList.dir/main.cpp.o	af9e66a5ca9060b
+1487	1614	1670575765669644090	QList	17c050c1a8c18808

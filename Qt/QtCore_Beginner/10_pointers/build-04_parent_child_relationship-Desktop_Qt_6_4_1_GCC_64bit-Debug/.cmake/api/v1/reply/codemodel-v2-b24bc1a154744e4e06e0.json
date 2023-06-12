@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9e9ac5cd5b985d80e9cd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04_parent_child_relationship",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04_parent_child_relationship::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_parent_child_relationship-Debug-9020e3b326082f02e9ec.json",
+					"name" : "04_parent_child_relationship",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_parent_child_relationship_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_parent_child_relationship_autogen-Debug-2d7eba5d629673da24a8.json",
+					"name" : "04_parent_child_relationship_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_parent_child_relationship_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_parent_child_relationship_autogen_timestamp_deps-Debug-427314c9b72355461efb.json",
+					"name" : "04_parent_child_relationship_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/Qt_practice/Beginner/10_pointers/build-04_parent_child_relationship-Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/Qt_practice/Beginner/10_pointers/04_parent_child_relationship"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

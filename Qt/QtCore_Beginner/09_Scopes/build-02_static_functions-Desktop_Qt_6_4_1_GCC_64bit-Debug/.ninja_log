@@ -1,0 +1,9 @@
+# ninja log v5
+1	170	1670172301257873809	02_static_functions_autogen/timestamp	a52d8dcd03115bcc
+1	170	1670172301257873809	02_static_functions_autogen/mocs_compilation.cpp	a52d8dcd03115bcc
+1	170	1670172301257873809	/home/javid/Qt_practice/Beginner/Section_09_Scopes/build-02_static_functions-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_static_functions_autogen/timestamp	a52d8dcd03115bcc
+1	170	1670172301257873809	/home/javid/Qt_practice/Beginner/Section_09_Scopes/build-02_static_functions-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_static_functions_autogen/mocs_compilation.cpp	a52d8dcd03115bcc
+170	1586	1670172302675875702	CMakeFiles/02_static_functions.dir/02_static_functions_autogen/mocs_compilation.cpp.o	aae71378c6903e70
+170	1693	1670172302781875843	CMakeFiles/02_static_functions.dir/main.cpp.o	67991d484c1ba159
+171	1702	1670172302791875857	CMakeFiles/02_static_functions.dir/test.cpp.o	e6fa314202921d05
+1702	1834	1670172302921876031	02_static_functions	9677ad693f2d2723

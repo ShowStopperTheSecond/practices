@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c1372e49b85d1d85cec3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03_property_binding",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "03_property_binding::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_property_binding-Debug-cb711086a4a2203cd28a.json",
+					"name" : "03_property_binding",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_property_binding_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_property_binding_autogen-Debug-3d7ffa1df206894d6cce.json",
+					"name" : "03_property_binding_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_property_binding_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_property_binding_autogen_timestamp_deps-Debug-a087195341ae07230803.json",
+					"name" : "03_property_binding_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/Qt_practice/Beginner/11_signals_slots/build-03_property_binding-Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/Qt_practice/Beginner/11_signals_slots/03_property_binding"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

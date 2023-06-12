@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/11_JavaScript_File/">
+    <file alias="main.qml">/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/11_JavaScript_File/main.qml</file>
+    <file alias="Codes.js">/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/11_JavaScript_File/Codes.js</file>
+  </qresource>
+</RCC>
+

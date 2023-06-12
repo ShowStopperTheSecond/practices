@@ -1,0 +1,8 @@
+# ninja log v5
+0	18	1670058025969685801	06_functions_in_structs_autogen/timestamp	4ec6f2cee184d35
+0	18	1670058025969685801	06_functions_in_structs_autogen/mocs_compilation.cpp	4ec6f2cee184d35
+0	18	1670058025969685801	/home/javid/Qt_practice/Beginner/Section_07/build-06_functions_in_structs-Desktop_Qt_6_4_1_GCC_64bit-Debug/06_functions_in_structs_autogen/timestamp	4ec6f2cee184d35
+0	18	1670058025969685801	/home/javid/Qt_practice/Beginner/Section_07/build-06_functions_in_structs-Desktop_Qt_6_4_1_GCC_64bit-Debug/06_functions_in_structs_autogen/mocs_compilation.cpp	4ec6f2cee184d35
+18	31	1670058025983685695	CMakeFiles/06_functions_in_structs.dir/06_functions_in_structs_autogen/mocs_compilation.cpp.o	9e3c8cdea58d2aeb
+18	1509	1670058027459674600	CMakeFiles/06_functions_in_structs.dir/main.cpp.o	d56bfe9f84c2c79c
+1510	1646	1670058027595673579	06_functions_in_structs	82f98f611c530a4b

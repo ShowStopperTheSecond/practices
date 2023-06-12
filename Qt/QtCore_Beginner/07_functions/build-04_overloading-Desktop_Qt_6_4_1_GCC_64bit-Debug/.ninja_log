@@ -1,0 +1,8 @@
+# ninja log v5
+1	19	1670054872405224345	04_overloading_autogen/timestamp	66b2a351aa61e24d
+1	19	1670054872405224345	04_overloading_autogen/mocs_compilation.cpp	66b2a351aa61e24d
+1	19	1670054872405224345	/home/javid/Qt_practice/Beginner/Section_07/build-04_overloading-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_overloading_autogen/timestamp	66b2a351aa61e24d
+1	19	1670054872405224345	/home/javid/Qt_practice/Beginner/Section_07/build-04_overloading-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_overloading_autogen/mocs_compilation.cpp	66b2a351aa61e24d
+19	32	1670054872419224355	CMakeFiles/04_overloading.dir/04_overloading_autogen/mocs_compilation.cpp.o	c862fcb841774889
+19	1331	1670054873717225266	CMakeFiles/04_overloading.dir/main.cpp.o	92831629244f0cdf
+1331	1455	1670054873839225351	04_overloading	6f7c83309b05d112

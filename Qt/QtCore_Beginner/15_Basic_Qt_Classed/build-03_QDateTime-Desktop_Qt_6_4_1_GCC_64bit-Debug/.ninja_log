@@ -1,0 +1,20 @@
+# ninja log v5
+1	18	1670571668623738512	03_QDateTime_autogen/timestamp	21aa10e702858d84
+1	18	1670571668623738512	03_QDateTime_autogen/mocs_compilation.cpp	21aa10e702858d84
+1	18	1670571668623738512	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-03_QDateTime-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_QDateTime_autogen/timestamp	21aa10e702858d84
+1	18	1670571668623738512	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-03_QDateTime-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_QDateTime_autogen/mocs_compilation.cpp	21aa10e702858d84
+18	32	1670571668639738553	CMakeFiles/03_QDateTime.dir/03_QDateTime_autogen/mocs_compilation.cpp.o	d0a47bf63f06e579
+19	1485	1670571670091742238	CMakeFiles/03_QDateTime.dir/main.cpp.o	daf4da47ae169986
+1486	1616	1670571670221742567	03_QDateTime	9836d763e474dd5a
+1	11	1670571703175827571	03_QDateTime_autogen/timestamp	21aa10e702858d84
+1	11	1670571703175827571	03_QDateTime_autogen/mocs_compilation.cpp	21aa10e702858d84
+1	11	1670571703175827571	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-03_QDateTime-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_QDateTime_autogen/timestamp	21aa10e702858d84
+1	11	1670571703175827571	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-03_QDateTime-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_QDateTime_autogen/mocs_compilation.cpp	21aa10e702858d84
+11	1482	1670571704647831427	CMakeFiles/03_QDateTime.dir/main.cpp.o	daf4da47ae169986
+1482	1614	1670571704777831768	03_QDateTime	9836d763e474dd5a
+2	10	1670571724497883921	03_QDateTime_autogen/timestamp	21aa10e702858d84
+2	10	1670571724497883921	03_QDateTime_autogen/mocs_compilation.cpp	21aa10e702858d84
+2	10	1670571724497883921	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-03_QDateTime-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_QDateTime_autogen/timestamp	21aa10e702858d84
+2	10	1670571724497883921	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-03_QDateTime-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_QDateTime_autogen/mocs_compilation.cpp	21aa10e702858d84
+11	1476	1670571725963887834	CMakeFiles/03_QDateTime.dir/main.cpp.o	daf4da47ae169986
+1476	1607	1670571726093888182	03_QDateTime	9836d763e474dd5a

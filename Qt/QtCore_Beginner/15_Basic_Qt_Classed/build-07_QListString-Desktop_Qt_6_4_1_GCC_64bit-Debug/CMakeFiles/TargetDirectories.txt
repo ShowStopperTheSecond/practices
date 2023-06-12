@@ -1,0 +1,9 @@
+/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/07_QListString.dir
+/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/07_QListString_autogen_timestamp_deps.dir
+/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/07_QListString_autogen.dir

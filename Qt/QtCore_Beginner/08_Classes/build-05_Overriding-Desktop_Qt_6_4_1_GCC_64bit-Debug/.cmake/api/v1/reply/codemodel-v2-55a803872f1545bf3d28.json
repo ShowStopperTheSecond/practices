@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5dfe3783dfc4a331163a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "05_Overriding",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "05_Overriding::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_Overriding-Debug-ead89e5cf4bc242d2243.json",
+					"name" : "05_Overriding",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_Overriding_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_Overriding_autogen-Debug-f61218a87d8d0158895d.json",
+					"name" : "05_Overriding_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_Overriding_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_Overriding_autogen_timestamp_deps-Debug-be08e94143ca9a784134.json",
+					"name" : "05_Overriding_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/Qt_practice/Beginner/Section_08/build-05_Overriding-Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/Qt_practice/Beginner/Section_08/05_Overriding"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

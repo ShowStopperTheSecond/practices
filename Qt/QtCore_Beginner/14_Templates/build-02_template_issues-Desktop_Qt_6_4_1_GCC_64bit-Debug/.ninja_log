@@ -1,0 +1,18 @@
+# ninja log v5
+1	18	1670529918815681500	02_template_issues_autogen/timestamp	252e6550ec5249e
+1	18	1670529918815681500	02_template_issues_autogen/mocs_compilation.cpp	252e6550ec5249e
+1	18	1670529918815681500	/home/javid/Qt_practice/Beginner/14_Templates/build-02_template_issues-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_template_issues_autogen/timestamp	252e6550ec5249e
+1	18	1670529918815681500	/home/javid/Qt_practice/Beginner/14_Templates/build-02_template_issues-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_template_issues_autogen/mocs_compilation.cpp	252e6550ec5249e
+18	32	1670529918831681505	CMakeFiles/02_template_issues.dir/02_template_issues_autogen/mocs_compilation.cpp.o	2d57c51cee2637f1
+19	1428	1670529920225681975	CMakeFiles/02_template_issues.dir/main.cpp.o	2f095d201da4ed38
+1428	1563	1670529920359682021	02_template_issues	999a41370f508c01
+2	11	1670529965309701128	02_template_issues_autogen/timestamp	252e6550ec5249e
+2	11	1670529965309701128	02_template_issues_autogen/mocs_compilation.cpp	252e6550ec5249e
+2	11	1670529965309701128	/home/javid/Qt_practice/Beginner/14_Templates/build-02_template_issues-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_template_issues_autogen/timestamp	252e6550ec5249e
+2	11	1670529965309701128	/home/javid/Qt_practice/Beginner/14_Templates/build-02_template_issues-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_template_issues_autogen/mocs_compilation.cpp	252e6550ec5249e
+2	12	1670529974343705858	02_template_issues_autogen/timestamp	252e6550ec5249e
+2	12	1670529974343705858	02_template_issues_autogen/mocs_compilation.cpp	252e6550ec5249e
+2	12	1670529974343705858	/home/javid/Qt_practice/Beginner/14_Templates/build-02_template_issues-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_template_issues_autogen/timestamp	252e6550ec5249e
+2	12	1670529974343705858	/home/javid/Qt_practice/Beginner/14_Templates/build-02_template_issues-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_template_issues_autogen/mocs_compilation.cpp	252e6550ec5249e
+12	1427	1670529975757706623	CMakeFiles/02_template_issues.dir/main.cpp.o	2f095d201da4ed38
+1427	1559	1670529975889706695	02_template_issues	999a41370f508c01

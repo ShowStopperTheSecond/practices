@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-33a4e95956d526815853.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "05_QObjects_can_not_be_copied",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "05_QObjects_can_not_be_copied::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_QObjects_can_not_be_copied-Debug-54bab4d07ff95fc01139.json",
+					"name" : "05_QObjects_can_not_be_copied",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_QObjects_can_not_be_copied_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_QObjects_can_not_be_copied_autogen-Debug-31efb255742ea31e78c3.json",
+					"name" : "05_QObjects_can_not_be_copied_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_QObjects_can_not_be_copied_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_QObjects_can_not_be_copied_autogen_timestamp_deps-Debug-58f408483b943ccebc10.json",
+					"name" : "05_QObjects_can_not_be_copied_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/Qt_practice/Beginner/10_pointers/build-05_QObjects_can_not_be_copied-Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/Qt_practice/Beginner/10_pointers/05_QObjects_can_not_be_copied"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/17_Tumbler/">
+    <file alias="main.qml">/home/javid/home/Qt_practice/QML_Beginner/08_Qt_Quick/17_Tumbler/main.qml</file>
+  </qresource>
+</RCC>
+

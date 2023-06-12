@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/01_ScrollView/">
+    <file alias="main.qml">/home/javid/home/Qt_practice/QML_Beginner/09_Templates/01_ScrollView/main.qml</file>
+  </qresource>
+</RCC>
+

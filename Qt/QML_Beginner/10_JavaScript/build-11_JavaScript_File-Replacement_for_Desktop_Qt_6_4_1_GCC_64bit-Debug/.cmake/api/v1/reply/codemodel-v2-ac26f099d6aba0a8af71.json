@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-516383112183ce0fc5f2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "11_JavaScript_File",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-b54971267d189c655ad4.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-3cb1bcf1d1465af805a4.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-cde4dc58c73d21e38e21.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11_JavaScript_File::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11_JavaScript_File-Debug-92bbdc4c63d8e4d1f846.json",
+					"name" : "app11_JavaScript_File",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11_JavaScript_File_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11_JavaScript_File_autogen-Debug-6ec4eb4e0a301943deea.json",
+					"name" : "app11_JavaScript_File_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11_JavaScript_File_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11_JavaScript_File_autogen_timestamp_deps-Debug-63c6a792fa0cc51131f0.json",
+					"name" : "app11_JavaScript_File_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11_JavaScript_File_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11_JavaScript_File_other_files-Debug-675648ede841c15c2879.json",
+					"name" : "app11_JavaScript_File_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11_JavaScript_File_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11_JavaScript_File_qmlimportscan-Debug-c2961caec182ac88111d.json",
+					"name" : "app11_JavaScript_File_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11_JavaScript_File_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11_JavaScript_File_qmllint-Debug-503078a2377ef73ad0f9.json",
+					"name" : "app11_JavaScript_File_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11_JavaScript_File_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11_JavaScript_File_qmllint_json-Debug-02cd5918f0353286c8d4.json",
+					"name" : "app11_JavaScript_File_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11_JavaScript_File_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11_JavaScript_File_qmltyperegistration-Debug-17db59aa0f8b3b3698e5.json",
+					"name" : "app11_JavaScript_File_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11_JavaScript_File_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11_JavaScript_File_tooling-Debug-5c808db196eb3bafa0e1.json",
+					"name" : "app11_JavaScript_File_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/build-11_JavaScript_File-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/11_JavaScript_File"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

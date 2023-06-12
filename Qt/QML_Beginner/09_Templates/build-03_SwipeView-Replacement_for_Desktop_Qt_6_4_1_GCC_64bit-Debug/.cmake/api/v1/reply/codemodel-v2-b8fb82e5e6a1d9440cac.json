@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3cb47fcf47aaa47f23da.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03_SwipeView",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-6f67487d8cd64e341eac.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-d1a92f701bde560851e2.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-6ebdc8bf4d508e2c6475.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_SwipeView::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_SwipeView-Debug-d4823b33f1c905b87b69.json",
+					"name" : "app03_SwipeView",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_SwipeView_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_SwipeView_autogen-Debug-0cd8759e645bd009413a.json",
+					"name" : "app03_SwipeView_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_SwipeView_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_SwipeView_autogen_timestamp_deps-Debug-0b439262994026444919.json",
+					"name" : "app03_SwipeView_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_SwipeView_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_SwipeView_other_files-Debug-0bbb4c3b7c4f6ee5230e.json",
+					"name" : "app03_SwipeView_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_SwipeView_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_SwipeView_qmlimportscan-Debug-cc368b4d45021738a00c.json",
+					"name" : "app03_SwipeView_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_SwipeView_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_SwipeView_qmllint-Debug-b07ea34da3025c125285.json",
+					"name" : "app03_SwipeView_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_SwipeView_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_SwipeView_qmllint_json-Debug-6cf94d02cb49c3136f46.json",
+					"name" : "app03_SwipeView_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_SwipeView_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_SwipeView_qmltyperegistration-Debug-149f2405602056b090a3.json",
+					"name" : "app03_SwipeView_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_SwipeView_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_SwipeView_tooling-Debug-3ed9339448525e1b488a.json",
+					"name" : "app03_SwipeView_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_SwipeView-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/home/Qt_practice/QML_Beginner/09_Templates/03_SwipeView"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

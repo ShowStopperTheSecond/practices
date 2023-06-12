@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7c7246d5e2d3958e43bf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01_ScrollView",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-205238fbb010bd86a79c.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-fbfac6cb4d78f4e20baf.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-a9521277e7b6f451e7f8.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app01_ScrollView::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app01_ScrollView-Debug-b2ef566fd6b9186f34e2.json",
+					"name" : "app01_ScrollView",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app01_ScrollView_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app01_ScrollView_autogen-Debug-8e9f86af6117f35389b3.json",
+					"name" : "app01_ScrollView_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app01_ScrollView_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app01_ScrollView_autogen_timestamp_deps-Debug-9ff4b548e514ff86df2b.json",
+					"name" : "app01_ScrollView_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app01_ScrollView_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app01_ScrollView_other_files-Debug-b4d269c58f3de9c8ddb9.json",
+					"name" : "app01_ScrollView_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app01_ScrollView_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app01_ScrollView_qmlimportscan-Debug-558982249afd5191d36b.json",
+					"name" : "app01_ScrollView_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app01_ScrollView_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app01_ScrollView_qmllint-Debug-1da4921853ec7e1aae34.json",
+					"name" : "app01_ScrollView_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app01_ScrollView_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app01_ScrollView_qmllint_json-Debug-d0f2d330e9c6cf64d890.json",
+					"name" : "app01_ScrollView_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app01_ScrollView_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app01_ScrollView_qmltyperegistration-Debug-e0d525b5b70c32efe293.json",
+					"name" : "app01_ScrollView_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app01_ScrollView_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app01_ScrollView_tooling-Debug-2b48a6b82bb834dce47f.json",
+					"name" : "app01_ScrollView_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-01_ScrollView-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/home/Qt_practice/QML_Beginner/09_Templates/01_ScrollView"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

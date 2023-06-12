@@ -1,0 +1,8 @@
+# ninja log v5
+0	17	1670056946462638855	05_ByRef_ByValue_autogen/timestamp	a86b3d6189917e5d
+0	17	1670056946462638855	05_ByRef_ByValue_autogen/mocs_compilation.cpp	a86b3d6189917e5d
+0	17	1670056946462638855	/home/javid/Qt_practice/Beginner/Section_07/build-05_ByRef_ByValue-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_ByRef_ByValue_autogen/timestamp	a86b3d6189917e5d
+0	17	1670056946462638855	/home/javid/Qt_practice/Beginner/Section_07/build-05_ByRef_ByValue-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_ByRef_ByValue_autogen/mocs_compilation.cpp	a86b3d6189917e5d
+17	30	1670056946478638878	CMakeFiles/05_ByRef_ByValue.dir/05_ByRef_ByValue_autogen/mocs_compilation.cpp.o	29664285c2ae6abd
+17	1503	1670056947950640954	CMakeFiles/05_ByRef_ByValue.dir/main.cpp.o	82c2887a43739cdd
+1504	1638	1670056948082641140	05_ByRef_ByValue	d83f7a8f4e561cea

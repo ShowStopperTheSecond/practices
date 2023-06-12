@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/02_StackViewApplication">
+    <file alias="qmldir">/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-02_StackViewApplication-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/02_StackViewApplication/qmldir</file>
+  </qresource>
+</RCC>
+

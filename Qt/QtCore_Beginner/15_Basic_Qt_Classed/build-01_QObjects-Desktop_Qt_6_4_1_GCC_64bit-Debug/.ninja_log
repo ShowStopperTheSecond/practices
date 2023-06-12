@@ -1,0 +1,16 @@
+# ninja log v5
+2	277	1670533536804011537	01_QObjects_autogen/timestamp	4d5d0a35d44dfbef
+2	277	1670533536804011537	01_QObjects_autogen/mocs_compilation.cpp	4d5d0a35d44dfbef
+2	277	1670533536804011537	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-01_QObjects-Desktop_Qt_6_4_1_GCC_64bit-Debug/01_QObjects_autogen/timestamp	4d5d0a35d44dfbef
+2	277	1670533536804011537	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-01_QObjects-Desktop_Qt_6_4_1_GCC_64bit-Debug/01_QObjects_autogen/mocs_compilation.cpp	4d5d0a35d44dfbef
+278	2624	1670533539154015273	CMakeFiles/01_QObjects.dir/dog.cpp.o	7db5e7f866f88c7d
+278	2677	1670533539206015356	CMakeFiles/01_QObjects.dir/cat.cpp.o	9b43a4093660389d
+278	2710	1670533539240015410	CMakeFiles/01_QObjects.dir/main.cpp.o	351e426c24b74839
+278	2716	1670533539246015420	CMakeFiles/01_QObjects.dir/01_QObjects_autogen/mocs_compilation.cpp.o	556732fcdc5b857d
+2716	2857	1670533539386015643	01_QObjects	c304262813afd7ca
+2	13	1670533613158140809	01_QObjects_autogen/timestamp	4d5d0a35d44dfbef
+2	13	1670533613158140809	01_QObjects_autogen/mocs_compilation.cpp	4d5d0a35d44dfbef
+2	13	1670533613158140809	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-01_QObjects-Desktop_Qt_6_4_1_GCC_64bit-Debug/01_QObjects_autogen/timestamp	4d5d0a35d44dfbef
+2	13	1670533613158140809	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-01_QObjects-Desktop_Qt_6_4_1_GCC_64bit-Debug/01_QObjects_autogen/mocs_compilation.cpp	4d5d0a35d44dfbef
+14	1465	1670533614610143418	CMakeFiles/01_QObjects.dir/cat.cpp.o	9b43a4093660389d
+1465	1619	1670533614762143691	01_QObjects	c304262813afd7ca

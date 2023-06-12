@@ -1,0 +1,8 @@
+# ninja log v5
+2	19	1670082993868538392	04_interfaces_autogen/timestamp	9420c5e8acc380ac
+2	19	1670082993868538392	04_interfaces_autogen/mocs_compilation.cpp	9420c5e8acc380ac
+2	19	1670082993868538392	/home/javid/Qt_practice/Beginner/Section_08/build-04_interfaces-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_interfaces_autogen/timestamp	9420c5e8acc380ac
+2	19	1670082993868538392	/home/javid/Qt_practice/Beginner/Section_08/build-04_interfaces-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_interfaces_autogen/mocs_compilation.cpp	9420c5e8acc380ac
+19	33	1670082993884538540	CMakeFiles/04_interfaces.dir/04_interfaces_autogen/mocs_compilation.cpp.o	ebbf06b31d018fcb
+19	1478	1670082995328551896	CMakeFiles/04_interfaces.dir/main.cpp.o	31cce0574a20b078
+1479	1603	1670082995452553041	04_interfaces	9a891f05adefd1f0

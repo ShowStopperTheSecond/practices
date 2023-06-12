@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/03_SwipeView">
+    <file alias="qmldir">/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_SwipeView-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/03_SwipeView/qmldir</file>
+  </qresource>
+</RCC>
+

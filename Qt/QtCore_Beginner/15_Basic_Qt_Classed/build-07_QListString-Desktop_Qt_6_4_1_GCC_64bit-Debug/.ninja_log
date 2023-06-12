@@ -1,0 +1,14 @@
+# ninja log v5
+0	17	1670575276893728152	07_QListString_autogen/timestamp	99fc6066fef465e5
+0	17	1670575276893728152	07_QListString_autogen/mocs_compilation.cpp	99fc6066fef465e5
+0	17	1670575276893728152	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/07_QListString_autogen/timestamp	99fc6066fef465e5
+0	17	1670575276893728152	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/07_QListString_autogen/mocs_compilation.cpp	99fc6066fef465e5
+17	31	1670575276907728211	CMakeFiles/07_QListString.dir/07_QListString_autogen/mocs_compilation.cpp.o	19d1e005ac8f4a9
+18	1429	1670575278305734123	CMakeFiles/07_QListString.dir/main.cpp.o	a674f1dec9bfd114
+1430	1557	1670575278433734665	07_QListString	f6e08081103e7a02
+1	10	1670575908958132121	07_QListString_autogen/timestamp	99fc6066fef465e5
+1	10	1670575908958132121	07_QListString_autogen/mocs_compilation.cpp	99fc6066fef465e5
+1	10	1670575908958132121	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/07_QListString_autogen/timestamp	99fc6066fef465e5
+1	10	1670575908958132121	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-07_QListString-Desktop_Qt_6_4_1_GCC_64bit-Debug/07_QListString_autogen/mocs_compilation.cpp	99fc6066fef465e5
+10	1307	1670575910254136557	CMakeFiles/07_QListString.dir/main.cpp.o	a674f1dec9bfd114
+1308	1428	1670575910374136967	07_QListString	f6e08081103e7a02

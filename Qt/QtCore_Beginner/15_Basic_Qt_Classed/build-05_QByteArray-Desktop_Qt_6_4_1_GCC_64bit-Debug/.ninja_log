@@ -1,0 +1,26 @@
+# ninja log v5
+1	17	1670573983926140288	05_QByteArray_autogen/timestamp	3bb98862ba861266
+1	17	1670573983926140288	05_QByteArray_autogen/mocs_compilation.cpp	3bb98862ba861266
+1	17	1670573983926140288	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-05_QByteArray-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QByteArray_autogen/timestamp	3bb98862ba861266
+1	17	1670573983926140288	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-05_QByteArray-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QByteArray_autogen/mocs_compilation.cpp	3bb98862ba861266
+17	31	1670573983942140359	CMakeFiles/05_QByteArray.dir/05_QByteArray_autogen/mocs_compilation.cpp.o	7c17e62a4b3d33cf
+18	1544	1670573985454147066	CMakeFiles/05_QByteArray.dir/main.cpp.o	483b444d05aa82dc
+1544	1679	1670573985588147660	05_QByteArray	937bc91c8d0cc821
+2	11	1670573999470209212	05_QByteArray_autogen/timestamp	3bb98862ba861266
+2	11	1670573999470209212	05_QByteArray_autogen/mocs_compilation.cpp	3bb98862ba861266
+2	11	1670573999470209212	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-05_QByteArray-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QByteArray_autogen/timestamp	3bb98862ba861266
+2	11	1670573999470209212	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-05_QByteArray-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QByteArray_autogen/mocs_compilation.cpp	3bb98862ba861266
+11	1540	1670574000998215984	CMakeFiles/05_QByteArray.dir/main.cpp.o	483b444d05aa82dc
+1540	1678	1670574001134216587	05_QByteArray	937bc91c8d0cc821
+2	10	1670574028168336332	05_QByteArray_autogen/timestamp	3bb98862ba861266
+2	10	1670574028168336332	05_QByteArray_autogen/mocs_compilation.cpp	3bb98862ba861266
+2	10	1670574028168336332	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-05_QByteArray-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QByteArray_autogen/timestamp	3bb98862ba861266
+2	10	1670574028168336332	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-05_QByteArray-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QByteArray_autogen/mocs_compilation.cpp	3bb98862ba861266
+11	1574	1670574029730343246	CMakeFiles/05_QByteArray.dir/main.cpp.o	483b444d05aa82dc
+1574	1712	1670574029868343856	05_QByteArray	937bc91c8d0cc821
+2	12	1670574064492496983	05_QByteArray_autogen/timestamp	3bb98862ba861266
+2	12	1670574064492496983	05_QByteArray_autogen/mocs_compilation.cpp	3bb98862ba861266
+2	12	1670574064492496983	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-05_QByteArray-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QByteArray_autogen/timestamp	3bb98862ba861266
+2	12	1670574064492496983	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-05_QByteArray-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QByteArray_autogen/mocs_compilation.cpp	3bb98862ba861266
+12	1545	1670574066026503761	CMakeFiles/05_QByteArray.dir/main.cpp.o	483b444d05aa82dc
+1546	1682	1670574066160504353	05_QByteArray	937bc91c8d0cc821

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/12_QML_And_JavaScript_Connections/">
+    <file alias="main.qml">/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/12_QML_And_JavaScript_Connections/main.qml</file>
+    <file alias="Code.js">/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/12_QML_And_JavaScript_Connections/Code.js</file>
+  </qresource>
+</RCC>
+

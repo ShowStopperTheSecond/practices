@@ -1,0 +1,27 @@
+# ninja log v5
+0	63	1670446181091481782	build.ninja	f4ce534289f1ba8f
+1	265	1670446180077477225	/home/javid/Qt_practice/Beginner/11_signals_slots/build-05_Dog_Example-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_Dog_Example_autogen/timestamp	c6b58b82279102ea
+1	265	1670446180077477225	05_Dog_Example_autogen/timestamp	c6b58b82279102ea
+1	265	1670446180077477225	05_Dog_Example_autogen/mocs_compilation.cpp	c6b58b82279102ea
+1	265	1670446180077477225	/home/javid/Qt_practice/Beginner/11_signals_slots/build-05_Dog_Example-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_Dog_Example_autogen/mocs_compilation.cpp	c6b58b82279102ea
+2	13	1670446333068165140	05_Dog_Example_autogen/timestamp	c6b58b82279102ea
+2	13	1670446333068165140	05_Dog_Example_autogen/mocs_compilation.cpp	c6b58b82279102ea
+2	13	1670446333068165140	/home/javid/Qt_practice/Beginner/11_signals_slots/build-05_Dog_Example-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_Dog_Example_autogen/timestamp	c6b58b82279102ea
+2	13	1670446333068165140	/home/javid/Qt_practice/Beginner/11_signals_slots/build-05_Dog_Example-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_Dog_Example_autogen/mocs_compilation.cpp	c6b58b82279102ea
+14	1511	1670446334566171879	CMakeFiles/05_Dog_Example.dir/owner.cpp.o	fe8aae2ad4c57aa0
+14	1541	1670446334596172014	CMakeFiles/05_Dog_Example.dir/dog.cpp.o	c040e3af11fd046f
+14	1547	1670446334602172041	CMakeFiles/05_Dog_Example.dir/main.cpp.o	4061a4a1c3387763
+14	1838	1670446334892173346	CMakeFiles/05_Dog_Example.dir/05_Dog_Example_autogen/mocs_compilation.cpp.o	9bae7652b96d86c0
+1838	1979	1670446335032173976	05_Dog_Example	4a42d11cfa3c16a4
+3	19	1670446368966326649	05_Dog_Example_autogen/timestamp	c6b58b82279102ea
+3	19	1670446368966326649	05_Dog_Example_autogen/mocs_compilation.cpp	c6b58b82279102ea
+3	19	1670446368966326649	/home/javid/Qt_practice/Beginner/11_signals_slots/build-05_Dog_Example-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_Dog_Example_autogen/timestamp	c6b58b82279102ea
+3	19	1670446368966326649	/home/javid/Qt_practice/Beginner/11_signals_slots/build-05_Dog_Example-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_Dog_Example_autogen/mocs_compilation.cpp	c6b58b82279102ea
+20	1600	1670446370548333768	CMakeFiles/05_Dog_Example.dir/main.cpp.o	4061a4a1c3387763
+1600	1747	1670446370694334425	05_Dog_Example	4a42d11cfa3c16a4
+3	18	1670446381048381012	05_Dog_Example_autogen/timestamp	c6b58b82279102ea
+3	18	1670446381048381012	05_Dog_Example_autogen/mocs_compilation.cpp	c6b58b82279102ea
+3	18	1670446381048381012	/home/javid/Qt_practice/Beginner/11_signals_slots/build-05_Dog_Example-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_Dog_Example_autogen/timestamp	c6b58b82279102ea
+3	18	1670446381048381012	/home/javid/Qt_practice/Beginner/11_signals_slots/build-05_Dog_Example-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_Dog_Example_autogen/mocs_compilation.cpp	c6b58b82279102ea
+19	1662	1670446382690388401	CMakeFiles/05_Dog_Example.dir/main.cpp.o	4061a4a1c3387763
+1662	1813	1670446382840389076	05_Dog_Example	4a42d11cfa3c16a4

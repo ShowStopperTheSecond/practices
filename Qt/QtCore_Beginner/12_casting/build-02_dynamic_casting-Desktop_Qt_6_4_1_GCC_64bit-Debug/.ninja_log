@@ -1,0 +1,17 @@
+# ninja log v5
+1	213	1670522631001643663	05_QObject_cast_autogen/timestamp	f46b787c2cee5fa5
+1	213	1670522631001643663	05_QObject_cast_autogen/mocs_compilation.cpp	f46b787c2cee5fa5
+1	213	1670522631001643663	/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QObject_cast_autogen/timestamp	f46b787c2cee5fa5
+1	213	1670522631001643663	/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QObject_cast_autogen/mocs_compilation.cpp	f46b787c2cee5fa5
+213	1867	1670522632655644851	CMakeFiles/05_QObject_cast.dir/05_QObject_cast_autogen/mocs_compilation.cpp.o	50ec7c3121e573a3
+214	2451	1670522633239645271	CMakeFiles/05_QObject_cast.dir/car.cpp.o	b08515d1b38f950b
+214	2516	1670522633305645319	CMakeFiles/05_QObject_cast.dir/feline.cpp.o	9729deb467081ad0
+214	2542	1670522633331645337	CMakeFiles/05_QObject_cast.dir/racecar.cpp.o	b522093840e88546
+2	171	1670522679987679315	05_QObject_cast_autogen/timestamp	f46b787c2cee5fa5
+2	171	1670522679987679315	05_QObject_cast_autogen/mocs_compilation.cpp	f46b787c2cee5fa5
+2	171	1670522679987679315	/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QObject_cast_autogen/timestamp	f46b787c2cee5fa5
+2	171	1670522679987679315	/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/05_QObject_cast_autogen/mocs_compilation.cpp	f46b787c2cee5fa5
+171	1626	1670522681445680390	CMakeFiles/05_QObject_cast.dir/racecar.cpp.o	b522093840e88546
+171	1676	1670522681495680427	CMakeFiles/05_QObject_cast.dir/05_QObject_cast_autogen/mocs_compilation.cpp.o	50ec7c3121e573a3
+171	1690	1670522681507680436	CMakeFiles/05_QObject_cast.dir/main.cpp.o	f86ad87c2dfb6834
+1690	1837	1670522681653680544	05_QObject_cast	b8f86f9fd4827190

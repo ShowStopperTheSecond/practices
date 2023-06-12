@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/17_Tumbler">
+    <file alias="qmldir">/home/javid/home/Qt_practice/QML_Beginner/08_Qt_Quick/build-17_Tumbler-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/17_Tumbler/qmldir</file>
+  </qresource>
+</RCC>
+

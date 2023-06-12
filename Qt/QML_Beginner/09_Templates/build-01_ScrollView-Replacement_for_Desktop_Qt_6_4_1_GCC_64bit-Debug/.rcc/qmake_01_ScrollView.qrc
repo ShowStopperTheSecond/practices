@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/01_ScrollView">
+    <file alias="qmldir">/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-01_ScrollView-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/01_ScrollView/qmldir</file>
+  </qresource>
+</RCC>
+

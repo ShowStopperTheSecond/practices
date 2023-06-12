@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/02_StackViewApplication/">
+    <file alias="main.qml">/home/javid/home/Qt_practice/QML_Beginner/09_Templates/02_StackViewApplication/main.qml</file>
+  </qresource>
+</RCC>
+

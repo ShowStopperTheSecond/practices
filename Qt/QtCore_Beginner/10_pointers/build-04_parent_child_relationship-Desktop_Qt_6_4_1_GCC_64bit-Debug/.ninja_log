@@ -1,0 +1,10 @@
+# ninja log v5
+1	207	1670181334750878051	04_parent_child_relationship_autogen/timestamp	ffeba2c4e62c2676
+1	207	1670181334750878051	04_parent_child_relationship_autogen/mocs_compilation.cpp	ffeba2c4e62c2676
+1	207	1670181334750878051	/home/javid/Qt_practice/Beginner/10_pointers/build-04_parent_child_relationship-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_parent_child_relationship_autogen/timestamp	ffeba2c4e62c2676
+1	207	1670181334750878051	/home/javid/Qt_practice/Beginner/10_pointers/build-04_parent_child_relationship-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_parent_child_relationship_autogen/mocs_compilation.cpp	ffeba2c4e62c2676
+207	1639	1670181336184880430	CMakeFiles/04_parent_child_relationship.dir/main.cpp.o	a4fd15d6fcd296a7
+208	1700	1670181336244880529	CMakeFiles/04_parent_child_relationship.dir/child.cpp.o	de678bd1abf8cbb1
+207	1703	1670181336248880536	CMakeFiles/04_parent_child_relationship.dir/parent.cpp.o	6451153e39337a82
+207	1706	1670181336250880539	CMakeFiles/04_parent_child_relationship.dir/04_parent_child_relationship_autogen/mocs_compilation.cpp.o	c9a135b0cb7729fe
+1706	1836	1670181336380880755	04_parent_child_relationship	fec4417f86993fda

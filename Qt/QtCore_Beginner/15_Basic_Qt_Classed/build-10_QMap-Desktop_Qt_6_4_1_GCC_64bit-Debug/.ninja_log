@@ -1,0 +1,27 @@
+# ninja log v5
+2	247	1670577987016609268	10_QMap_autogen/timestamp	681c6572486558c1
+2	247	1670577987016609268	10_QMap_autogen/mocs_compilation.cpp	681c6572486558c1
+2	247	1670577987016609268	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-10_QMap-Desktop_Qt_6_4_1_GCC_64bit-Debug/10_QMap_autogen/timestamp	681c6572486558c1
+2	247	1670577987016609268	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-10_QMap-Desktop_Qt_6_4_1_GCC_64bit-Debug/10_QMap_autogen/mocs_compilation.cpp	681c6572486558c1
+248	2124	1670577988894615152	CMakeFiles/10_QMap.dir/10_QMap_autogen/mocs_compilation.cpp.o	bf6e4bf6cd48182b
+248	2458	1670577989228616198	CMakeFiles/10_QMap.dir/pet.cpp.o	873de276a18aae98
+248	2831	1670577989602617370	CMakeFiles/10_QMap.dir/main.cpp.o	c79bf965ec5c945f
+2831	3028	1670577989796617979	10_QMap	1f9d4bc1eff06698
+3	14	1670580628402426867	10_QMap_autogen/timestamp	681c6572486558c1
+3	14	1670580628402426867	10_QMap_autogen/mocs_compilation.cpp	681c6572486558c1
+3	14	1670580628402426867	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-10_QMap-Desktop_Qt_6_4_1_GCC_64bit-Debug/10_QMap_autogen/timestamp	681c6572486558c1
+3	14	1670580628402426867	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-10_QMap-Desktop_Qt_6_4_1_GCC_64bit-Debug/10_QMap_autogen/mocs_compilation.cpp	681c6572486558c1
+15	1786	1670580630172431411	CMakeFiles/10_QMap.dir/main.cpp.o	c79bf965ec5c945f
+1786	1956	1670580630342431848	10_QMap	1f9d4bc1eff06698
+2	12	1670580746976733137	10_QMap_autogen/timestamp	681c6572486558c1
+2	12	1670580746976733137	10_QMap_autogen/mocs_compilation.cpp	681c6572486558c1
+2	12	1670580746976733137	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-10_QMap-Desktop_Qt_6_4_1_GCC_64bit-Debug/10_QMap_autogen/timestamp	681c6572486558c1
+2	12	1670580746976733137	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-10_QMap-Desktop_Qt_6_4_1_GCC_64bit-Debug/10_QMap_autogen/mocs_compilation.cpp	681c6572486558c1
+13	1752	1670580748716737659	CMakeFiles/10_QMap.dir/main.cpp.o	c79bf965ec5c945f
+1752	1899	1670580748862738039	10_QMap	1f9d4bc1eff06698
+2	11	1670580777608812859	10_QMap_autogen/timestamp	681c6572486558c1
+2	11	1670580777608812859	10_QMap_autogen/mocs_compilation.cpp	681c6572486558c1
+2	11	1670580777608812859	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-10_QMap-Desktop_Qt_6_4_1_GCC_64bit-Debug/10_QMap_autogen/timestamp	681c6572486558c1
+2	11	1670580777608812859	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-10_QMap-Desktop_Qt_6_4_1_GCC_64bit-Debug/10_QMap_autogen/mocs_compilation.cpp	681c6572486558c1
+12	1563	1670580779158816903	CMakeFiles/10_QMap.dir/main.cpp.o	c79bf965ec5c945f
+1563	1700	1670580779296817262	10_QMap	1f9d4bc1eff06698

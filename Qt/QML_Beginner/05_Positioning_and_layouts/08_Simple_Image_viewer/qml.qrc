@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ButtomHover.qml</file>
+    </qresource>
+    <qresource prefix="/Photos">
+        <file>13.jpeg</file>
+        <file>wallhaven-j8ok5w.png</file>
+        <file>wallhaven-k7dv8d.jpg</file>
+    </qresource>
+</RCC>

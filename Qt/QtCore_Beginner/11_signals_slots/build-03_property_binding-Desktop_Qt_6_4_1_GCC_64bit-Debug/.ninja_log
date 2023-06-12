@@ -1,0 +1,22 @@
+# ninja log v5
+1	320	1670440923822341017	03_property_binding_autogen/timestamp	2ed0efed76aa0fb
+1	320	1670440923822341017	03_property_binding_autogen/mocs_compilation.cpp	2ed0efed76aa0fb
+1	320	1670440923822341017	/home/javid/Qt_practice/Beginner/11_signals_slots/build-03_property_binding-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_property_binding_autogen/timestamp	2ed0efed76aa0fb
+1	320	1670440923822341017	/home/javid/Qt_practice/Beginner/11_signals_slots/build-03_property_binding-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_property_binding_autogen/mocs_compilation.cpp	2ed0efed76aa0fb
+321	2673	1670440926178425879	CMakeFiles/03_property_binding.dir/test.cpp.o	2edf5c8c6f40b6f5
+320	2768	1670440926274429329	CMakeFiles/03_property_binding.dir/watcher.cpp.o	78beff031889e10d
+320	2891	1670440926398433785	CMakeFiles/03_property_binding.dir/03_property_binding_autogen/mocs_compilation.cpp.o	96abae5082e414e2
+320	3010	1670440926516438025	CMakeFiles/03_property_binding.dir/main.cpp.o	391ab22b509131db
+3010	3162	1670440926666443416	03_property_binding	11f177390db82bd9
+4	20	1670440990244617686	03_property_binding_autogen/timestamp	2ed0efed76aa0fb
+4	20	1670440990244617686	03_property_binding_autogen/mocs_compilation.cpp	2ed0efed76aa0fb
+4	20	1670440990244617686	/home/javid/Qt_practice/Beginner/11_signals_slots/build-03_property_binding-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_property_binding_autogen/timestamp	2ed0efed76aa0fb
+4	20	1670440990244617686	/home/javid/Qt_practice/Beginner/11_signals_slots/build-03_property_binding-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_property_binding_autogen/mocs_compilation.cpp	2ed0efed76aa0fb
+21	1530	1670440991754666771	CMakeFiles/03_property_binding.dir/test.cpp.o	2edf5c8c6f40b6f5
+1530	1679	1670440991902671578	03_property_binding	11f177390db82bd9
+2	15	1670441065306926342	03_property_binding_autogen/timestamp	2ed0efed76aa0fb
+2	15	1670441065306926342	03_property_binding_autogen/mocs_compilation.cpp	2ed0efed76aa0fb
+2	15	1670441065306926342	/home/javid/Qt_practice/Beginner/11_signals_slots/build-03_property_binding-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_property_binding_autogen/timestamp	2ed0efed76aa0fb
+2	15	1670441065306926342	/home/javid/Qt_practice/Beginner/11_signals_slots/build-03_property_binding-Desktop_Qt_6_4_1_GCC_64bit-Debug/03_property_binding_autogen/mocs_compilation.cpp	2ed0efed76aa0fb
+16	1533	1670441066824970401	CMakeFiles/03_property_binding.dir/main.cpp.o	391ab22b509131db
+1533	1687	1670441066978974868	03_property_binding	11f177390db82bd9

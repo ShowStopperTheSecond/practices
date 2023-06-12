@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/01_Hello_World.dir/01_Hello_World_autogen/mocs_compilation.cpp.o CMakeFiles/01_Hello_World.dir/main.cpp.o -o 01_Hello_World  /usr/lib/libQt5Core.so.5.15.5 

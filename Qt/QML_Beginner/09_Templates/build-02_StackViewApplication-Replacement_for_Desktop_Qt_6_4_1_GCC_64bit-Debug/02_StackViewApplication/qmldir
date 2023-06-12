@@ -1,0 +1,4 @@
+module 02_StackViewApplication
+typeinfo app02_StackViewApplication.qmltypes
+prefer :/02_StackViewApplication/
+

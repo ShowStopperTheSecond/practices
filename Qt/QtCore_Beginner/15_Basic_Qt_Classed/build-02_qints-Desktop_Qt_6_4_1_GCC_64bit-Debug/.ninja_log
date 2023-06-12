@@ -1,0 +1,8 @@
+# ninja log v5
+1	18	1670534156419385987	02_qints_autogen/timestamp	41fda24c9036bd89
+1	18	1670534156419385987	02_qints_autogen/mocs_compilation.cpp	41fda24c9036bd89
+1	18	1670534156419385987	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-02_qints-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_qints_autogen/timestamp	41fda24c9036bd89
+1	18	1670534156419385987	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-02_qints-Desktop_Qt_6_4_1_GCC_64bit-Debug/02_qints_autogen/mocs_compilation.cpp	41fda24c9036bd89
+18	32	1670534156433386024	CMakeFiles/02_qints.dir/02_qints_autogen/mocs_compilation.cpp.o	a0ccdf6a96be4461
+19	1436	1670534157837389735	CMakeFiles/02_qints.dir/main.cpp.o	68723ad9ac0bdffd
+1436	1566	1670534157967390078	02_qints	e243cd87df3642c4

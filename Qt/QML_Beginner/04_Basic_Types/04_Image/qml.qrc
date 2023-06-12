@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/Photos">
+        <file>wallhaven-4ymve7.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4b2d06ff1714788b9268.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03_PassingVariables",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-9349cb9d0da9b8284b06.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-08b9e1946eb47f2dcb96.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-a3a0bccc78adf47394e4.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_PassingVariables::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_PassingVariables-Debug-e2ab31eaab9790892dd2.json",
+					"name" : "app03_PassingVariables",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_PassingVariables_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_PassingVariables_autogen-Debug-b306671695a1a8368c00.json",
+					"name" : "app03_PassingVariables_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_PassingVariables_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_PassingVariables_autogen_timestamp_deps-Debug-a39e775a35f74083e787.json",
+					"name" : "app03_PassingVariables_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_PassingVariables_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_PassingVariables_other_files-Debug-0ae8ad9720ab8e0e3c3c.json",
+					"name" : "app03_PassingVariables_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_PassingVariables_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_PassingVariables_qmlimportscan-Debug-dafc2d0b88d5dce376b6.json",
+					"name" : "app03_PassingVariables_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_PassingVariables_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_PassingVariables_qmllint-Debug-ef703712d973263d6f0a.json",
+					"name" : "app03_PassingVariables_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_PassingVariables_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_PassingVariables_qmllint_json-Debug-4ca64ec3a8b91acbc78f.json",
+					"name" : "app03_PassingVariables_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_PassingVariables_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_PassingVariables_qmltyperegistration-Debug-218816e1c14ee03c8e8f.json",
+					"name" : "app03_PassingVariables_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app03_PassingVariables_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app03_PassingVariables_tooling-Debug-694b0c138608bf331b8c.json",
+					"name" : "app03_PassingVariables_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_PassingVariables-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/home/Qt_practice/QML_Beginner/09_Templates/03_PassingVariables"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

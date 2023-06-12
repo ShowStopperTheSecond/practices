@@ -1,0 +1,14 @@
+-rootPath
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/03_PassingVariables
+-cmake-output
+-output-file
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_PassingVariables-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app03_PassingVariables.cmake
+-importPath
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_PassingVariables-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/03_PassingVariables
+-importPath
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_PassingVariables-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug
+-importPath
+/home/javid/Qt/6.4.1/gcc_64/./qml
+-qrcFiles
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_PassingVariables-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/.rcc/qmake_03_PassingVariables.qrc
+/home/javid/home/Qt_practice/QML_Beginner/09_Templates/build-03_PassingVariables-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug/.rcc/app03_PassingVariables_raw_qml_0.qrc

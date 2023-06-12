@@ -1,0 +1,26 @@
+# ninja log v5
+1	19	1670572524347316970	04_QString_autogen/timestamp	3da511fb2df35803
+1	19	1670572524347316970	04_QString_autogen/mocs_compilation.cpp	3da511fb2df35803
+1	19	1670572524347316970	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-04_QString-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_QString_autogen/timestamp	3da511fb2df35803
+1	19	1670572524347316970	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-04_QString-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_QString_autogen/mocs_compilation.cpp	3da511fb2df35803
+19	34	1670572524363317002	CMakeFiles/04_QString.dir/04_QString_autogen/mocs_compilation.cpp.o	90500deb96018ab5
+20	1555	1670572525883320035	CMakeFiles/04_QString.dir/main.cpp.o	25eb33551d22e055
+1556	1695	1670572526021320311	04_QString	87ae4589048b587a
+1	12	1670572542567353624	04_QString_autogen/timestamp	3da511fb2df35803
+1	12	1670572542567353624	04_QString_autogen/mocs_compilation.cpp	3da511fb2df35803
+1	12	1670572542567353624	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-04_QString-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_QString_autogen/timestamp	3da511fb2df35803
+1	12	1670572542567353624	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-04_QString-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_QString_autogen/mocs_compilation.cpp	3da511fb2df35803
+12	1561	1670572544117356772	CMakeFiles/04_QString.dir/main.cpp.o	25eb33551d22e055
+1561	1700	1670572544253357048	04_QString	87ae4589048b587a
+2	11	1670572658021600061	04_QString_autogen/timestamp	3da511fb2df35803
+2	11	1670572658021600061	04_QString_autogen/mocs_compilation.cpp	3da511fb2df35803
+2	11	1670572658021600061	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-04_QString-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_QString_autogen/timestamp	3da511fb2df35803
+2	11	1670572658021600061	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-04_QString-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_QString_autogen/mocs_compilation.cpp	3da511fb2df35803
+11	1528	1670572659537603453	CMakeFiles/04_QString.dir/main.cpp.o	25eb33551d22e055
+1528	1664	1670572659673603757	04_QString	87ae4589048b587a
+1	10	1670572761825840998	04_QString_autogen/timestamp	3da511fb2df35803
+1	10	1670572761825840998	04_QString_autogen/mocs_compilation.cpp	3da511fb2df35803
+1	10	1670572761825840998	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-04_QString-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_QString_autogen/timestamp	3da511fb2df35803
+1	10	1670572761825840998	/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-04_QString-Desktop_Qt_6_4_1_GCC_64bit-Debug/04_QString_autogen/mocs_compilation.cpp	3da511fb2df35803
+10	1444	1670572763259844447	CMakeFiles/04_QString.dir/main.cpp.o	25eb33551d22e055
+1444	1570	1670572763383844745	04_QString	87ae4589048b587a

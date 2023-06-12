@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-65cdf7f43980bc8cbf3a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "07_Arrats",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "07_Arrats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_Arrats-Debug-d821040bd20147cfe523.json",
+					"name" : "07_Arrats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_Arrats_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_Arrats_autogen-Debug-70b982619e2ec0875d46.json",
+					"name" : "07_Arrats_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_Arrats_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_Arrats_autogen_timestamp_deps-Debug-11f30054df9cebfc12af.json",
+					"name" : "07_Arrats_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/Qt_practice/Beginner/Section_04/build-07_Arrats-Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/Qt_practice/Beginner/Section_04/07_Arrays"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

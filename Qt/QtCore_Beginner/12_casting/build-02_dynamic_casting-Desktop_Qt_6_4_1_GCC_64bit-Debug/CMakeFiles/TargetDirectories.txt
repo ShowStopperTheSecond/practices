@@ -1,0 +1,9 @@
+/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/05_QObject_cast.dir
+/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/05_QObject_cast_autogen_timestamp_deps.dir
+/home/javid/Qt_practice/Beginner/12_casting/build-02_dynamic_casting-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/05_QObject_cast_autogen.dir

@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1feb287b6a252e946b44.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "12_QML_And_JavaScript_Connections",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-c40b38aa86d9b1eaf639.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1f50d3b720b2a1031106.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-1c6e2d339e7049f708c9.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12_QML_And_JavaScript_Connections::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12_QML_And_JavaScript_Connections-Debug-5d42dbf9a2fe63fd147a.json",
+					"name" : "app12_QML_And_JavaScript_Connections",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12_QML_And_JavaScript_Connections_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12_QML_And_JavaScript_Connections_autogen-Debug-d075b6a52c6faf689fb4.json",
+					"name" : "app12_QML_And_JavaScript_Connections_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12_QML_And_JavaScript_Connections_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12_QML_And_JavaScript_Connections_autogen_timestamp_deps-Debug-ccaf5d2c652cea685e0d.json",
+					"name" : "app12_QML_And_JavaScript_Connections_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12_QML_And_JavaScript_Connections_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12_QML_And_JavaScript_Connections_other_files-Debug-d09ef0b6fea97e56d48a.json",
+					"name" : "app12_QML_And_JavaScript_Connections_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12_QML_And_JavaScript_Connections_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12_QML_And_JavaScript_Connections_qmlimportscan-Debug-7b0e0a3604076680f483.json",
+					"name" : "app12_QML_And_JavaScript_Connections_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12_QML_And_JavaScript_Connections_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12_QML_And_JavaScript_Connections_qmllint-Debug-9a5a49258ef3e56e1801.json",
+					"name" : "app12_QML_And_JavaScript_Connections_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12_QML_And_JavaScript_Connections_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12_QML_And_JavaScript_Connections_qmllint_json-Debug-698631c3cf6c250b6188.json",
+					"name" : "app12_QML_And_JavaScript_Connections_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12_QML_And_JavaScript_Connections_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12_QML_And_JavaScript_Connections_qmltyperegistration-Debug-efb9f91d0e3c46505788.json",
+					"name" : "app12_QML_And_JavaScript_Connections_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12_QML_And_JavaScript_Connections_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12_QML_And_JavaScript_Connections_tooling-Debug-48cb6758c4127bb1f385.json",
+					"name" : "app12_QML_And_JavaScript_Connections_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/build-12_QML_And_JavaScript_Connections-Replacement_for_Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/home/Qt_practice/QML_Beginner/10_JavaScript/12_QML_And_JavaScript_Connections"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

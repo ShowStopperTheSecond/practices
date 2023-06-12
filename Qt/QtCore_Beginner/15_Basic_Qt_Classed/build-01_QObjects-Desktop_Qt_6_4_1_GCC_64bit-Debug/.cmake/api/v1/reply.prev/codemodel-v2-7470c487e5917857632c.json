@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-43fbe1b3140112fca0e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01_QObjects",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_QObjects::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_QObjects-Debug-7184b2445e7a01cc59be.json",
+					"name" : "01_QObjects",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_QObjects_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_QObjects_autogen-Debug-8ee3e43ea70f1eb2d813.json",
+					"name" : "01_QObjects_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_QObjects_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_QObjects_autogen_timestamp_deps-Debug-3e3db456f2048ee03c59.json",
+					"name" : "01_QObjects_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/build-01_QObjects-Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/Qt_practice/Beginner/15_Basic_Qt_Classed/01_QObjects"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

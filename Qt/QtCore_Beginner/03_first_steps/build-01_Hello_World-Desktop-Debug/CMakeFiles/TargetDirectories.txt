@@ -1,0 +1,8 @@
+/home/javid/Qt_practice/Beginner/Section_03/build-01_Hello_World-Desktop-Debug/CMakeFiles/01_Hello_World.dir
+/home/javid/Qt_practice/Beginner/Section_03/build-01_Hello_World-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/javid/Qt_practice/Beginner/Section_03/build-01_Hello_World-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/javid/Qt_practice/Beginner/Section_03/build-01_Hello_World-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/javid/Qt_practice/Beginner/Section_03/build-01_Hello_World-Desktop-Debug/CMakeFiles/install.dir
+/home/javid/Qt_practice/Beginner/Section_03/build-01_Hello_World-Desktop-Debug/CMakeFiles/install/local.dir
+/home/javid/Qt_practice/Beginner/Section_03/build-01_Hello_World-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/javid/Qt_practice/Beginner/Section_03/build-01_Hello_World-Desktop-Debug/CMakeFiles/01_Hello_World_autogen.dir

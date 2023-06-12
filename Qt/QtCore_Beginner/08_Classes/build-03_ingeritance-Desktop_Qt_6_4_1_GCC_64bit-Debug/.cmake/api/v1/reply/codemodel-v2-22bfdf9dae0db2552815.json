@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-03a1e51f55b8b9fcfe9b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03_ingeritance",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "03_ingeritance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_ingeritance-Debug-fbd258accd951f1c05ca.json",
+					"name" : "03_ingeritance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_ingeritance_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_ingeritance_autogen-Debug-eb8fe23d35e582c4c998.json",
+					"name" : "03_ingeritance_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_ingeritance_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_ingeritance_autogen_timestamp_deps-Debug-50099a9c1f86bf5d3e0c.json",
+					"name" : "03_ingeritance_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/javid/Qt_practice/Beginner/Section_08/build-03_ingeritance-Desktop_Qt_6_4_1_GCC_64bit-Debug",
+		"source" : "/home/javid/Qt_practice/Beginner/Section_08/03_ingeritance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
