@@ -1,0 +1,14 @@
+@font-face{
+    font-family: "Emblema";
+    src: url("https://fonts.google.com/specimen/Agbalumo"),
+}
+
+body{
+    background-color: silver;
+}
+h1{
+    font-size: 10em;
+    color: rgb(152, 174, 8);
+    font-weight: thin;
+    font-family: Emblema;
+}
