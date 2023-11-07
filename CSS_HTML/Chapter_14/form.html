@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Form</title>
+    <meta charset="utf-8">
+    <style>
+        form {
+            border-width: 1px;
+            border-style: solid;
+            width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+            padding-left: 100px;
+        }
+    </style>
+</head>
+
+<form action="http://wickedlysmart.com/hfhtmlcss/contest.php" method="post">
+    <p>Please Enter your information: <br>
+        First name: <input type="text" name="name"> <br>
+        Last name: <input type="text" name="familyname"> <br>
+        <input type="submit">
+    </p>
+</form>
+
+
+
+<form action="http://wickedlysmart.com/hfhtmlcss/contest.php" method="get">
+
+
+    Choose your beans:
+    <select name="selected_bean" id="bean">
+        <option value="House_blend"> House blend</option>
+        <option value="Shade Grown Bolivia Supremo">Shade Grown Bolivia Supremo</option>
+        <option value="Organic Guatemala">Organic Guatemala</option>
+        <option value="Kenya">Kenya</option>
+    </select>
+    <br>
+    Type: <br>
+
+    <input type="radio" id="beantype_whole_bean" name="beantype" value="Whole bean"> Whole Bean <br>
+    <input type="radio" name="beantype" value="Ground"> Ground <br>
+
+    Number of bags:
+    <input type="number" min="0" max="10" value="0" name="number of bags"> <br>
+    Must arrive by date:
+    <input type="date" name="arrival date"> <br>
+
+
+    Extra: <br>
+    <input type="checkbox" name="extra_options" value="Gift warp" > Gift Warp <br>
+    <input type="checkbox" name="extra_options" value="catalog" > Include catalog with order <br>
+
+    Ship to:
+
+    Name: <input type="text" name="recipit name" > <br>
+    Address: <input type="text" name="Address" > <br>
+    City: <input type="text" name="City" > <br>
+    State: <input type="text" name="State" > <br>
+    Zip: <input type="text" name="Zip" > <br>
+    Phone: <input type="tel" name="tel" > <br>
+    Comments: <input type="textarea" name="comments" > <br>
+
+    <input type="submit" name="submit" value="Order Now" > <br>
+
+
+    
+    
+
+
+
+
+
+</form>
+
+</body>
+
+</html>
