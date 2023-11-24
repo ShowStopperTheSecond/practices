@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Moving Circle</title>
+    <meta charset="utf-8">
+
+
+</head>
+
+<body>
+
+    <!-- <div id="circle1"></div>
+    <div id="circle2"></div> -->
+
+
+
+    <script>
+  
+        function animation(obj, dx, dy, px, py, speed=0.001) {
+            let angle=0
+            function animate(time, lastTime) {
+                let deltaD = 0;
+
+                if (lastTime == null) {
+                    deltaD = 0;
+                } else {
+                    deltaD = (time - lastTime) * speed;
+                    //deltaD = (time - lastTime) * Math.random()*0.001;
+
+                }
+                angle += deltaD;
+                obj.style.top = (Math.sin(angle) * dx + px) + "px";
+                obj.style.left = (Math.cos(angle) * dy + py) + "px";
+
+                requestAnimationFrame(newTime => animate(newTime, time));
+            }
+
+            requestAnimationFrame(animate);
+        }
+ 
+
+        function creatBall(height, width, color){
+            let element = document.createElement("div")
+            element.style =`position: absolute;
+            width: ${width}px;
+            height: ${height}px;
+            background-color: ${color};
+            border-radius: 50%;
+            top: 0px;
+            left: 0px;`;
+            document.body.appendChild(element)
+            return element
+
+        }
+  
+        for(let i=0; i<100; i++){
+            let randomColor = `rgb(${Math.random() * 255}, ${Math.random() * 255}, ${Math.random() * 255})`
+            //randomColor = "blue"
+            let size = Math.floor(Math.random() * 10+10)
+            let vx = Math.floor(Math.random() * 200+100);
+            let vy = Math.floor(Math.random() * 200+200);
+            let px = Math.floor(Math.random() * 500+250)
+            let py = Math.floor(Math.random() * 500+400)
+            let speed = Math.random()*0.005
+            animation(creatBall(size, size, randomColor), vx, vy, px, py,speed );
+        }
+        
+
+
+    </script>
+
+</body>
+
+
+
+</html>

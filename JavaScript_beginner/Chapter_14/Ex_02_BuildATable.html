@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Table</title>
+</head>
+
+<body>
+<!-- 
+    <table>
+        <tr>
+            <th>name</th>
+            <th>height</th>
+            <th>place</th>
+        </tr>
+        <tr>
+            <td>Kilimanjaro</td>
+            <td>5895</td>
+            <td>Tanzania</td>
+        </tr>
+    </table> -->
+
+    <script>
+
+
+        const MOUNTAINS = [
+            { name: "Kilimanjaro", height: 5895, place: "Tanzania" },
+            { name: "Everest", height: 8848, place: "Nepal" },
+            { name: "Mount Fuji", height: 3776, place: "Japan" },
+            { name: "Vaalserberg", height: 323, place: "Netherlands" },
+            { name: "Denali", height: 6168, place: "United States" },
+            { name: "Popocatepetl", height: 5465, place: "Mexico" },
+            { name: "Mont Blanc", height: 4808, place: "Italy/France" }
+        ];
+
+
+       /* let table = document.querySelector("tbody")
+        for ({ name, height, place } of MOUNTAINS) {
+            let el = document.createElement("tr")
+            el.appendChild(document.createElement("td")).textContent = name;
+            el.appendChild(document.createElement("td")).textContent = height;
+            el.appendChild(document.createElement("td")).textContent = place;
+            table.appendChild(el)
+
+        }
+
+        
+        table.style.textAlign = "right"*/
+        
+        
+        function createTableElement(data){
+            let headers = Object.keys(data[0]);
+            let table = document.createElement("table")
+            let tbody = table.appendChild(document.createElement("tbody"))
+            // Adding Header
+            let row = document.createElement("tr")
+            for (header of headers){
+                row.appendChild(document.createElement("th")).textContent = header
+            }
+            tbody.appendChild(row)
+            for (row of data){
+                let tableRow = document.createElement("tr")
+                for(k of headers){
+                    tableRow.appendChild(document.createElement("td")).textContent = row[k]
+                }
+                tbody.appendChild(tableRow)
+            }
+            return table;
+        }
+        document.body.appendChild(createTableElement(MOUNTAINS))
+    </script>
+
+</body>
+
+</html>

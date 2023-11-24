@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Moving Circle</title>
+    <meta charset="utf-8">
+    <style>
+        .circle {
+            position: absolute;
+            width: 25px;
+            height: 25px;
+            background-color: purple;
+            border-radius: 50%;
+            top: 200px;
+            left: 200px;
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+    <div class="circle" id="circ"></div>
+
+
+    <script>
+        let circle = document.getElementById("circ");
+        circle.style["background-color"] = "blue"
+        let angle = Math.PI / 2;
+
+        function animate(time, lastTime) {
+            let deltaD = 0;
+
+            if (lastTime == null) {
+                deltaD = 0;
+            } else {
+                deltaD = (time - lastTime) * 0.001;
+            }
+
+            angle += deltaD;
+            circle.style.top = (Math.sin(angle) * 25 + 500) + "px";
+            circle.style.left = (Math.cos(angle) * 400 + 500) + "px";
+
+            requestAnimationFrame(newTime => animate(newTime, time));
+        }
+
+        requestAnimationFrame(animate);
+    </script>
+    
+</body>
+
+
+
+</html>
